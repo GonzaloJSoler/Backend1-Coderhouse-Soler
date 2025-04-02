@@ -46,12 +46,3 @@ Se debia crear una variable Booleana administrador, la cual segun su valor permi
 
 Para ejecutar en local:   
 `npm start`
-
-Demo en Glitch: 
-
-https://purrfect-square-pigment.glitch.me/ 
-
-
-*by Alejandro Aliaga.*
-
->Curso de Programacion Backend Coderhouse
